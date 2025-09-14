@@ -1,0 +1,36 @@
+# Spring Boot 编译产物（重要，必须忽略）
+target/
+
+# IDE 配置文件（不同开发者的配置不同）
+.idea/
+*.iml
+.vscode/
+*.sublime-*
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings/
+.springBeans
+.sts4-cache/
+
+# Maven 相关（本地脚本和缓存，无需上传）
+mvnw
+mvnw.cmd
+.mvn/
+
+# 日志文件（可能包含敏感信息或大量冗余内容）
+logs/
+*.log
+*.txt~
+
+# 临时文件和缓存
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# 配置文件（如果有本地敏感配置，单独列出）
+# 注意：如果 application.yml 包含通用配置，不要忽略
+# src/main/resources/application-dev.yml
+# src/main/resources/application-test.yml
