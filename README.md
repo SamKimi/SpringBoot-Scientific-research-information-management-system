@@ -16,7 +16,7 @@
 
 ### 前端
 1. 进入 gaoxiaokeyanxinxi_web\admin 目录，执行 `npm install` 安装依赖
-2. 执行 `npm run serve` 启动开发环境（本地访问：http://localhost:8080）
+2. 执行 `npm run serve` 启动开发环境（本地访问：http://localhost:8081）
 
 ## 目录结构
 - /backend：后端代码
