@@ -35,6 +35,6 @@
 2. 执行 `npm run serve` 启动开发环境（本地访问：http://localhost:8081）
 
 ## 目录结构
-- /backend：后端代码
+- /gaoxiaokeyanxinxi：后端代码
 
-- /frontend：前端代码
+- /gaoxiaokeyanxinxi_web：前端代码
